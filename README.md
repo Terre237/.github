@@ -27,7 +27,7 @@
 ### ✨ Fonctionnalités principales
 
 - **🛒 Circuit Court Direct** : Achetez des produits frais directement depuis les champs et les fermes.
-- **🔒 Paiement Sécurisé (Séquestre)** : Vos paiements Mobile Money sont bloqués par la plateforme et libérés au producteur uniquement après confirmation de la livraison.
+- **🔒 Paiement Sécurisé (Séquestre)** : Vos paiements sont bloqués par la plateforme et libérés au producteur uniquement après confirmation de la livraison.
 - **📱 Interface Accessible & Hors-ligne** : Une application légère conçue pour fonctionner de manière fluide même avec une faible connectivité réseau.
 - **🚚 Logistique Intégrée** : Suivi des expéditions via les agences de voyage partenaires et les chauffeurs du dernier kilomètre.
 - **📩 Notifications Proactives** : Alertes mails et SMS en temps réel pour les agriculteurs (qui n'ont pas toujours accès à internet) à chaque nouvelle commande.
@@ -61,7 +61,7 @@ Terre237 se rémunère via une **commission transparente et fixe** prélevée un
 ### ✨ Key Features
 
 - **🛒 Direct Short Circuit** : Buy fresh produce directly from fields and farms.
-- **🔒 Secure Escrow Payment** : Your Mobile Money payments are held by the platform and released to the farmer only upon delivery confirmation.
+- **🔒 Secure Escrow Payment** : Your payments are held by the platform and released to the farmer only upon delivery confirmation.
 - **📱 Accessible & Offline-First UI** : A lightweight application designed to run smoothly even with low network bandwidth.
 - **🚚 Integrated Logistics** : Shipment tracking via partner travel agencies and last-mile delivery drivers.
 - **📩 Proactive Notifications** : Real-time Mail, SMS alerts for farmers (who may lack internet access) for every new order.
