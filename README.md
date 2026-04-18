@@ -22,7 +22,7 @@
 
 ### 🌱 Qu'est-ce que Terre237 ?
 
-**Terre237** (Projet `TRR`) est une plateforme AgriTech innovante qui révolutionne le circuit de distribution agricole au Cameroun. Notre mission est de supprimer les intermédiaires excessifs en connectant directement les producteurs ruraux aux consommateurs urbains, tout en garantissant une confiance totale grâce à un système de paiement par séquestre (escrow) via Mobile Money.
+**Terre237** (Projet `TRR`) est une plateforme AgriTech innovante qui révolutionne le circuit de distribution agricole au Cameroun. Notre mission est de supprimer les intermédiaires excessifs en connectant directement les producteurs ruraux aux consommateurs urbains, tout en garantissant une confiance totale grâce à un système de paiement par séquestre (escrow) via Mobile Money et Carte Bancaire (notamment pour les utilisateurs à l'étranger).
 
 ### ✨ Fonctionnalités principales
 
@@ -30,7 +30,7 @@
 - **🔒 Paiement Sécurisé (Séquestre)** : Vos paiements Mobile Money sont bloqués par la plateforme et libérés au producteur uniquement après confirmation de la livraison.
 - **📱 Interface Accessible & Hors-ligne** : Une application légère conçue pour fonctionner de manière fluide même avec une faible connectivité réseau.
 - **🚚 Logistique Intégrée** : Suivi des expéditions via les agences de voyage partenaires et les chauffeurs du dernier kilomètre.
-- **📩 Notifications Proactives** : Alertes SMS en temps réel pour les agriculteurs (qui n'ont pas toujours accès à internet) à chaque nouvelle commande.
+- **📩 Notifications Proactives** : Alertes mails et SMS en temps réel pour les agriculteurs (qui n'ont pas toujours accès à internet) à chaque nouvelle commande.
 
 ### 🛠️ Technologies utilisées (Architecture Enterprise)
 
@@ -89,8 +89,8 @@ Terre237 generates revenue through a **transparent and fixed commission** deduct
 <div align="center">
   
 ### 🚀 Projet en développement / Project in Development
-*Une initiative tech ambitieuse, développée avec une démarche de mentorat.*  
-*An ambitious tech initiative, developed with a mentoring approach.*
+*Une initiative tech ambitieuse.*  
+*An ambitious tech initiative.*
 
 [![Status](https://img.shields.io/badge/Status-En%20Développement-FBBF24?style=flat-square&logoColor=black)](https://github.com/ton-organisation-ou-user)
 [![Architecture](https://img.shields.io/badge/Architecture-Microservices-064E3B?style=flat-square)](https://github.com/ton-organisation-ou-user/terre237)
