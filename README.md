@@ -37,7 +37,7 @@
 - **Frontend** : React 19+, Tailwind CSS, Shadcn/UI, pnpm (PWA optimisée).
 - **Backend (Microservices)** : Java 25, Spring Boot 4, Spring Cloud (Eureka, API Gateway).
 - **Données & Événements** : PostgreSQL, Redis (Rate Limiting/Cache), Apache Kafka (Messagerie asynchrone).
-- **Intégrations Tierces** : API Campay (Paiements MTN MoMo / Orange Money), API Camoo (OTP & SMS).
+- **Intégrations Tierces** : Stripe, API Campay (Paiements MTN MoMo / Orange Money), API Camoo (OTP & SMS).
 
 ### 🎯 Public cible
 
@@ -56,7 +56,7 @@ Terre237 se rémunère via une **commission transparente et fixe** prélevée un
 
 ### 🌱 What is Terre237?
 
-**Terre237** (Project `TRR`) is an innovative AgriTech platform revolutionizing the agricultural distribution circuit in Cameroon. Our mission is to cut out excessive middlemen by directly connecting rural farmers to urban consumers, ensuring total trust through a Mobile Money escrow payment system.
+**Terre237** (Project `TRR`) is an innovative AgriTech platform revolutionizing the agricultural distribution circuit in Cameroon. Our mission is to cut out excessive middlemen by directly connecting rural farmers to urban consumers, ensuring total trust through a Mobile Money or Card escrow payment system.
 
 ### ✨ Key Features
 
@@ -64,14 +64,14 @@ Terre237 se rémunère via une **commission transparente et fixe** prélevée un
 - **🔒 Secure Escrow Payment** : Your Mobile Money payments are held by the platform and released to the farmer only upon delivery confirmation.
 - **📱 Accessible & Offline-First UI** : A lightweight application designed to run smoothly even with low network bandwidth.
 - **🚚 Integrated Logistics** : Shipment tracking via partner travel agencies and last-mile delivery drivers.
-- **📩 Proactive Notifications** : Real-time SMS alerts for farmers (who may lack internet access) for every new order.
+- **📩 Proactive Notifications** : Real-time Mail, SMS alerts for farmers (who may lack internet access) for every new order.
 
 ### 🛠️ Technology Stack (Enterprise Architecture)
 
 - **Frontend** : React 19+, Tailwind CSS, Shadcn/UI, pnpm (Optimized PWA).
 - **Backend (Microservices)** : Java 25, Spring Boot 4, Spring Cloud (Eureka, API Gateway).
 - **Data & Events** : PostgreSQL, Redis (Rate Limiting/Cache), Apache Kafka (Asynchronous messaging).
-- **Third-Party Integrations** : Campay API (MTN MoMo / Orange Money payments), Camoo API (OTP & SMS).
+- **Third-Party Integrations** : Stripe, Campay API (MTN MoMo / Orange Money payments), Camoo API (OTP & SMS).
 
 ### 🎯 Target Audience
 
