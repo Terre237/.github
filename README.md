@@ -6,7 +6,7 @@
   ### *Cultivate transparency, harvest freshness*
   
   [![Visitez notre site](https://img.shields.io/badge/Visitez-Notre%20Site-064E3B?style=for-the-badge)](https://www.terre237.cm)
-  [![Rejoignez-nous](https://img.shields.io/badge/Rejoignez-Nous-FBBF24?style=for-the-badge&logoColor=black)](https://app.terre237.cm/register)
+  [![Rejoignez-nous](https://img.shields.io/badge/Rejoignez-Nous-FBBF24?style=for-the-badge&logoColor=black)](https://terre237.cm/register)
   
   ---
 </div>
@@ -92,7 +92,7 @@ Terre237 generates revenue through a **transparent and fixed commission** deduct
 *Une initiative tech ambitieuse.*  
 *An ambitious tech initiative.*
 
-[![Status](https://img.shields.io/badge/Status-En%20Développement-FBBF24?style=flat-square&logoColor=black)](https://github.com/ton-organisation-ou-user)
-[![Architecture](https://img.shields.io/badge/Architecture-Microservices-064E3B?style=flat-square)](https://github.com/ton-organisation-ou-user/terre237)
+[![Status](https://img.shields.io/badge/Status-En%20Développement-FBBF24?style=flat-square&logoColor=black)](https://github.com/Terre237)
+[![Architecture](https://img.shields.io/badge/Architecture-Microservices-064E3B?style=flat-square)](https://github.com/Terre237)
 
 </div>
